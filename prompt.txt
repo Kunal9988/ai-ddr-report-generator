@@ -16,7 +16,7 @@ Output Format:
    - For each area:
      • Issue (from inspection report)
      • Thermal Finding (from thermal report)
-     • Image: (mention "Image Not Available" if not present)
+     • Image: ( Image Not Available )
 
 3. Probable Root Cause
 
